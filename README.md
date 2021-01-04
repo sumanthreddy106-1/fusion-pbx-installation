@@ -1,5 +1,7 @@
 # fusion-pbx-installation
 
+https://powerpbx.org/content/fusionpbx-v4-freeswitch-v16-centos-v7-install-guide-v1.1
+
 Fusionpbx v4 Freeswitch v1.6 CentOS v7 Install Guide
 Submitted by powerpbx on Sat, 01/02/2016 - 09:07
 Fusionpbx
